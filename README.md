@@ -14,3 +14,11 @@ You should now be able to see the output of the bracketmaker in your terminal!
 
 To run on another operating system, or for more information on running python files, see:
 http://www.cs.bu.edu/courses/cs108/guides/runpython.html
+
+To run online: <br>
+1 - Follow steps 1 and 2 above <br>
+2 - Copy all of the code from the page that follows <br>
+3 - Go to https://repl.it/languages/python3 <br>
+4 - Paste the code into the editor in the middle of the page <br>
+5 - Hit `run` at the top of the page <br>
+You should now see the output of the bracketmaker in the window on the right of the page!
