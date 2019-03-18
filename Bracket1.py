@@ -3,6 +3,12 @@ round = 32
 teams = list(range(1, 17))
 finalFour = list(range(1, 5))
 
+print()
+print("This script randomly picks a bracket (and final score) weighted by rankings.")
+print()
+print("Bracket groups go clockwise from top left.")
+print("For that reason, it is best to fill this out on a computer.")
+
 #bracket groups go clockwise from top left
 for i in range(0,4):
 	print()
