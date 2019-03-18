@@ -3,6 +3,15 @@ This is a python script that outputs a full bracket for use making an NCAA March
 
 The script makes the most sense when you're filling out a bracket on a computer, but you can also do it on a phone. Please download and use the script!
 
+To run online: <br>
+1 - Click on `Bracket1.py` above. <br>
+2 - In the top right of the code window, click on the button that says **Raw** <br>
+3 - Copy all of the code from the page that opens <br>
+4 - Go to https://repl.it/languages/python3 <br>
+5 - Paste the code into the editor in the middle of the page <br>
+6 - Hit `run` at the top of the page <br>
+You should now see the output of the bracketmaker in the window on the right of the page!
+
 To download and run on Mac: <br>
 1 - Click on `Bracket1.py` above. <br>
 2 - In the top right of the code window, click on the button that says **Raw** <br>
@@ -14,11 +23,3 @@ You should now be able to see the output of the bracketmaker in your terminal!
 
 To run on another operating system, or for more information on running python files, see:
 http://www.cs.bu.edu/courses/cs108/guides/runpython.html
-
-To run online: <br>
-1 - Follow steps 1 and 2 above <br>
-2 - Copy all of the code from the page that follows <br>
-3 - Go to https://repl.it/languages/python3 <br>
-4 - Paste the code into the editor in the middle of the page <br>
-5 - Hit `run` at the top of the page <br>
-You should now see the output of the bracketmaker in the window on the right of the page!
