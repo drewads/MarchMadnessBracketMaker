@@ -16,7 +16,7 @@ for i in range(0,4):
 	round = 32
 	teams = list(range(1, 17))
 	for k in range(0,4):	
-		print("Round ", k + 1)
+		print("Round of", round*2)
 		round = int(round/2)
 		teams = teams[0:round]
 		for j in range(0, int(round/2)):
