@@ -12,4 +12,5 @@ To download and run on Mac: <br>
 6 - When the terminal opens, enter `python Downloads/Bracket1.py`. If you opted to save the file in a different folder, you will need to either move the file to your downloads folder or provide the file path for the other folder. <br>
 You should now be able to see the output of the bracketmaker in your terminal!
 
-To download and run on Windows: <br>
+To run on another operating system, or for more information on running python files, see:
+http://www.cs.bu.edu/courses/cs108/guides/runpython.html
